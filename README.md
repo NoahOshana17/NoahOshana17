@@ -17,13 +17,13 @@ I'm a passionate Data Scientist and Machine Learning Engineer. I enjoy turning c
 
 
 ## 📈 Projects
-### 1. [RAG LLM Project](https://github.com/your-username/rag-llm-project)
+### 1. [RAG LLM Project](https://github.com/NoahOshana17/Deep Learning/Generative AI/Retrieval Augmented Generation)
 Worked on a Retrieval Augmented Generation project with Meta's Llama-2 LLM using libraries such as PyTorch, Transformers, ChromaDB, Hugging Face, and LangChain.
 
-### 2. [Bank Customer Chrun Prediction](https://github.com/your-username/rag-llm-project)
+### 2. [Bank Customer Chrun Prediction](https://github.com/NoahOshana17/Supervised Learning/Bank Customer Churn Prediction)
 Supervised Learning project using XGBoost and hyperparamter tuning strategies to predict customer churn.
 
-### 3. [Customer Segmentation with KMeans](https://github.com/your-username/customer-segmentation)
+### 3. [Customer Segmentation with KMeans](https://github.com/NoahOshana17/Unsupervised Learning/Customer Segmentation)
 Unsupervised learning project using KMeans clustering for customer segmentation.
 
 ## 📫 How to reach me
