@@ -28,8 +28,8 @@ Unsupervised learning project using KMeans clustering for customer segmentation.
 
 ## 📫 How to reach me
 - Email: [oshananoah@gmail.com](mailto:oshananoah@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/noahoshana)
+- LinkedIn: [NoahOshana](https://www.linkedin.com/in/noahoshana)
 
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahOshana17&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahOshana17&layout=compact&theme=radical)
