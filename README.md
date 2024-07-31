@@ -16,7 +16,7 @@ I'm a passionate Data Scientist and Machine Learning Engineer. I enjoy turning c
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
 
-## 📈 Projects
+## 📈 Projects [Full Repo Here] (https://github.com/NoahOshana17/Machine-Learning-Projects/tree/main)
 ### 1. [RAG LLM Project](https://github.com/NoahOshana17/Machine-Learning-Projects/tree/main/Deep%20Learning/Generative%20AI/Retrieval%20Augmented%20Generation)
 Worked on a Retrieval Augmented Generation project with Meta's Llama-2 LLM using libraries such as PyTorch, Transformers, ChromaDB, Hugging Face, and LangChain.
 
