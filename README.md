@@ -17,13 +17,13 @@ I'm a passionate Data Scientist and Machine Learning Engineer. I enjoy turning c
 
 
 ## 📈 Projects
-### 1. [RAG LLM Project]([https://github.com/NoahOshana17/Deep Learning/Generative AI/Retrieval Augmented Generation](https://github.com/NoahOshana17/Machine-Learning-Projects/tree/main/Deep%20Learning/Generative%20AI/Retrieval%20Augmented%20Generation))
+### 1. [RAG LLM Project](https://github.com/NoahOshana17/Machine-Learning-Projects/tree/main/Deep%20Learning/Generative%20AI/Retrieval%20Augmented%20Generation)
 Worked on a Retrieval Augmented Generation project with Meta's Llama-2 LLM using libraries such as PyTorch, Transformers, ChromaDB, Hugging Face, and LangChain.
 
-### 2. [Bank Customer Chrun Prediction]([https://github.com/NoahOshana17/Supervised Learning/Bank Customer Churn Prediction](https://github.com/NoahOshana17/Machine-Learning-Projects/tree/main/Supervised%20Learning/Bank%20Customer%20Churn%20Prediction))
+### 2. [Bank Customer Chrun Prediction](https://github.com/NoahOshana17/Machine-Learning-Projects/tree/main/Supervised%20Learning/Bank%20Customer%20Churn%20Prediction)
 Supervised Learning project using XGBoost and hyperparamter tuning strategies to predict customer churn.
 
-### 3. [Customer Segmentation with KMeans]([https://github.com/NoahOshana17/Unsupervised Learning/Customer Segmentation](https://github.com/NoahOshana17/Machine-Learning-Projects/tree/main/Unsupervised%20Learning/Customer%20Segmentation))
+### 3. [Customer Segmentation with KMeans](https://github.com/NoahOshana17/Machine-Learning-Projects/tree/main/Unsupervised%20Learning/Customer%20Segmentation)
 Unsupervised learning project using KMeans clustering for customer segmentation.
 
 ## 📫 How to reach me
